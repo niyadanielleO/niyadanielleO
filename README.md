@@ -1,16 +1,45 @@
-## Hi there 👋
+# Danielle OUATTARA
 
-<!--
-**niyadanielleO/niyadanielleO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Marketing Manager & Data Analyst — Cyber · Cloud · SaaS · Retail · Industrie
 
-Here are some ideas to get you started:
+📍 Paris, Île-de-France · 🌍 Mobilité internationale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 À propos
+
+Product Marketing Manager avec **3 ans d'expérience en tech B2B** (cybersécurité, cloud souverain, data & IA), chez Cloud Temple et au Groupe La Poste (division Data & IA).
+J'ai commencé côté **grande distribution et FMCG** (Carrefour Partenariat International, Marketing Alternative Products) : gestion de gammes, panels consommateurs, packaging.
+Diplômée d'un **MSc Marketing & Data Analytics** (INSEEC) et d'un **MBA Digital Marketing & Business** (EFAP, RNCP 7), je traduis la donnée en décisions de positionnement, de go-to-market et de sales enablement.
+
+## 🛠️ Compétences
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Marketing produit :** positionnement & go-to-market · ABM · personas & veille concurrentielle · battlecards & pitch decks · gestion de portefeuille
+
+## 📂 Projets phares
+
+| Projet | En une phrase |
+|---|---|
+| 🔐 [**Pourquoi les abonnés partent — et lesquels retenir en premier**](https://github.com/niyadanielleO/churn-analysis-subscription-services) | Analyse du churn de 7 043 abonnés à des services numériques : profils à risque, revenu menacé et plan de rétention priorisé (SQL + Power BI). |
+| 🎯 [**Du clic à l'achat : où le funnel e-commerce perd ses visiteurs**](https://github.com/niyadanielleO/ga4-funnel-conversion-analysis) | Analyse du funnel de conversion GA4 d'un vrai site e-commerce, par canal et par appareil, pour prioriser les actions marketing (BigQuery SQL + Power BI). |
+| 🛒 [**Ventes retail : saisonnalité, top produits et segmentation RFM**](https://github.com/niyadanielleO/retail-sales-rfm-segmentation) | Analyse d'un million de lignes de ventes d'un distributeur : performance par pays, produits moteurs et segments clients activables (Power BI + Excel). |
+
+## 🟢 Statut
+
+**Disponible depuis le 1er octobre 2026 pour un CDI** — Product Marketing Manager, Data Analyst Junior ou Digital Marketing Manager.
+Secteurs : tech B2B (cyber, cloud, SaaS, data & IA) · retail / grande distribution · industrie · services.
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyadanielleouattara/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyadanielle@gmail.com)
+
+- LinkedIn : https://www.linkedin.com/in/niyadanielleouattara/
+- Email : niyadanielle@gmail.com
