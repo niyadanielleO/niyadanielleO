@@ -28,7 +28,7 @@ Diplômée d'un **MSc Marketing & Data Analytics** (INSEEC) et d'un **MBA Digita
 | Projet | En une phrase |
 |---|---|
 | [**Pourquoi les abonnés partent — et lesquels retenir en premier**](https://github.com/niyadanielleO/churn-analysis-subscription-services) | Analyse du churn de 7 043 abonnés à des services numériques : profils à risque, revenu menacé et plan de rétention priorisé (SQL). |
-| [**Segmentation et score d'appétence : qui cibler, et combien ça rapporte**](https://github.com/niyadanielleO/customer-segmentation-campaign-scoring) | Segmentation de 2 240 clients d'une enseigne de distribution, modèle de réponse aux campagnes et simulation du ROI d'un envoi ciblé (Python, scikit-learn, Tableau) — en cours. |
+| [**Segmentation et score d'appétence : qui cibler, et combien ça rapporte**](https://github.com/niyadanielleO/customer-segmentation-campaign-scoring) | Segmentation de 2 240 clients d'une enseigne de distribution, score de réponse aux campagnes (AUC 0,90) et simulation du ROI : un ciblage qui transforme une perte en gain avec 80 % de contacts en moins (Python, scikit-learn). |
 
 ## Disponibilité
 
