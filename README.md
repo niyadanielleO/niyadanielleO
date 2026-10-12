@@ -27,13 +27,12 @@ Diplômée d'un **MSc Marketing & Data Analytics** (INSEEC) et d'un **MBA Digita
 
 | Projet | En une phrase |
 |---|---|
-| [**Pourquoi les abonnés partent — et lesquels retenir en premier**](https://github.com/niyadanielleO/churn-analysis-subscription-services) | Analyse du churn de 7 043 abonnés à des services numériques : profils à risque, revenu menacé et plan de rétention priorisé (SQL + Power BI). |
-| [**Du clic à l'achat : où le funnel e-commerce perd ses visiteurs**](https://github.com/niyadanielleO/ga4-funnel-conversion-analysis) | Analyse du funnel de conversion GA4 d'un vrai site e-commerce, par canal et par appareil, pour prioriser les actions marketing (BigQuery SQL + Power BI). |
-| [**Ventes retail : saisonnalité, top produits et segmentation RFM**](https://github.com/niyadanielleO/retail-sales-rfm-segmentation) | Analyse d'un million de lignes de ventes d'un distributeur : performance par pays, produits moteurs et segments clients activables (Power BI + Excel). |
+| [**Pourquoi les abonnés partent — et lesquels retenir en premier**](https://github.com/niyadanielleO/churn-analysis-subscription-services) | Analyse du churn de 7 043 abonnés à des services numériques : profils à risque, revenu menacé et plan de rétention priorisé (SQL). |
+| [**Segmentation et score d'appétence : qui cibler, et combien ça rapporte**](https://github.com/niyadanielleO/customer-segmentation-campaign-scoring) | Segmentation de 2 240 clients d'une enseigne de distribution, modèle de réponse aux campagnes et simulation du ROI d'un envoi ciblé (Python, scikit-learn, Tableau) — en cours. |
 
 ## Disponibilité
 
-**Disponible depuis le 1er octobre 2026 pour un CDI** — Product Marketing Manager, Data Analyst Junior ou Digital Marketing Manager.
+**Disponible immédiatement pour un CDI** — Product Marketing Manager, Data Analyst Junior ou Digital Marketing Manager.
 Secteurs : tech B2B (cyber, cloud, SaaS, data & IA) · retail / grande distribution · industrie · services.
 
 ## Contact
