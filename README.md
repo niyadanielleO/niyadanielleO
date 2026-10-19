@@ -26,11 +26,7 @@ Chaque projet part d'un problème d'entreprise concret et montre la solution, le
 |---|---|---|---|
 | **[Analyse de performance e-commerce](https://github.com/niyadanielleO/olist-ecommerce-performance-dashboard)** | Comprendre la croissance, la géographie des ventes et l'impact des retards de livraison sur la satisfaction (96 000 commandes) | Python, pandas, Tableau | Publié |
 | **[Analyse du churn d'abonnés](https://github.com/niyadanielleO/churn-analysis-subscription-services)** | Identifier les clients à risque, chiffrer le revenu mensuel menacé et prioriser un plan de rétention (7 043 abonnés) | SQL, Python | Publié |
-| **[Segmentation clients et scoring de campagnes](https://github.com/niyadanielleO/customer-segmentation-campaign-scoring)** | Cibler les clients les plus susceptibles de répondre à une campagne et simuler le ROI d'un envoi ciblé (2 240 clients) | Python, scikit-learn | En cours |
-| **Dashboard de performance LinkedIn** | Suivre l'impact des publications d'une entreprise sans export manuel | Power BI, modélisation de données | En cours |
-| **Workflow de prospection B2B augmenté par l'IA** | Préparer une prospection ciblée en quelques minutes au lieu de quelques heures | IA générative, no-code | En cours |
-| **Figure interactive : la qualification SecNumCloud** | Expliquer un sujet réglementaire complexe en un visuel | Claude Code, SVG interactif | En cours |
-| **Assistant de contenus pour PME ivoiriennes** | Produire rapidement des fiches produit et des posts adaptés au marché local | Claude, Lovable | À venir |
+| **[Segmentation clients et scoring de campagnes](https://github.com/niyadanielleO/customer-segmentation-campaign-scoring)** | Cibler les clients les plus susceptibles de répondre à une campagne et simuler le ROI d'un envoi ciblé (2 240 clients) | Python, scikit-learn | Publié |
 
 ---
 
@@ -47,6 +43,12 @@ Chaque projet part d'un problème d'entreprise concret et montre la solution, le
 **Data** : Power BI · Tableau · Python (pandas, scikit-learn) · SQL · GA4 · Excel
 **IA & no/low-code** : Claude · Claude Code · Lovable · Manus AI
 **Marketing** : go-to-market · sales enablement · contenus B2B · reporting de performance
+
+---
+
+## Disponibilité
+
+Ouverte à un poste en CDI en Product Marketing, Data Analyst ou AI Product Builder, en France ou en Côte d'Ivoire.
 
 ---
 
