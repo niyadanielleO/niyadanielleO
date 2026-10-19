@@ -1,4 +1,4 @@
-# Niya Danielle Ouattara – Data & IA pour PME
+# Niya C. Danielle Ouattara – Data & IA pour PME
 
 **J'aide les PME à automatiser leur marketing et leur reporting avec l'IA, pour gagner des heures chaque semaine, sans compétences techniques.**
 
