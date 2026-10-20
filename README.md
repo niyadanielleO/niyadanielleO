@@ -12,7 +12,6 @@ Paris & Abidjan · Missions en France, en Côte d'Ivoire et à distance
 
 | Offre | Pour qui | Ce que vous obtenez |
 |---|---|---|
-| **[Système d'agents IA pour la prospection B2B dans le luxe](https://github.com/niyadanielleO/luxury-b2b-prospecting-ai-agents)** | Automatiser la prospection d'une maison créative sans dégrader la qualité perçue : 7 agents n8n, faits vérifiés, scoring par code, 4 points de validation humaine | n8n, Pipedrive, Gemini, Gmail API | Publié |
 | **Lancement d'offre & go-to-market** | Entreprises qui lancent un nouveau produit ou service et ne savent pas comment le positionner ni le vendre | Étude de la voix du client, personas, positionnement, battlecard, pricing et plan de lancement à 90 jours. Exemple : [lancement d'une offre de facturation électronique pour TPE](https://github.com/niyadanielleO/smb-e-invoicing-go-to-market) |
 | **Pilotage & reporting** | Dirigeants qui suivent leurs chiffres dans des fichiers Excel éparpillés | Un tableau de bord clair (ventes, marketing, réseaux sociaux) mis à jour automatiquement, et un reporting mensuel prêt à lire |
 | **Automatisation IA** | Équipes qui perdent du temps sur des tâches répétitives | Un outil sur mesure : assistant de prospection, génération de contenus, tri de leads, réponses aux questions clients |
@@ -27,6 +26,7 @@ Chaque projet part d'un problème d'entreprise concret et montre la solution, le
 | Projet | Problème résolu | Outils | Statut |
 |---|---|---|---|
 | **[Analyse de performance e-commerce](https://github.com/niyadanielleO/olist-ecommerce-performance-dashboard)** | Comprendre la croissance, la géographie des ventes et l'impact des retards de livraison sur la satisfaction (96 000 commandes) | Python, pandas, Tableau | Publié |
+| **[Système d'agents IA pour la prospection B2B dans le luxe](https://github.com/niyadanielleO/luxury-b2b-prospecting-ai-agents)** | Automatiser la prospection d'une maison créative sans dégrader la qualité perçue : 7 agents n8n, faits vérifiés, scoring par code, 4 points de validation humaine | n8n, Pipedrive, Gemini, Gmail API | Publié |
 | **[Analyse du churn d'abonnés](https://github.com/niyadanielleO/churn-analysis-subscription-services)** | Identifier les clients à risque, chiffrer le revenu mensuel menacé et prioriser un plan de rétention (7 043 abonnés) | SQL, Python | Publié |
 | **[Segmentation clients et scoring de campagnes](https://github.com/niyadanielleO/customer-segmentation-campaign-scoring)** | Cibler les clients les plus susceptibles de répondre à une campagne et simuler le ROI d'un envoi ciblé (2 240 clients) | Python, scikit-learn | Publié |
 
