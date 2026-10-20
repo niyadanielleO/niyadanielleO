@@ -12,7 +12,7 @@ Paris & Abidjan · Missions en France, en Côte d'Ivoire et à distance
 
 | Offre | Pour qui | Ce que vous obtenez |
 |---|---|---|
-| **Lancement d'offre & go-to-market** | Entreprises qui lancent un nouveau produit ou service et ne savent pas comment le positionner ni le vendre | Étude de la voix du client, personas, positionnement, battlecard, pricing et plan de lancement à 90 jours. Exemple : [lancement d'une offre de facturation électronique pour TPE](https://github.com/niyadanielle0/smb-e-invoicing-go-to-market) |
+| **Lancement d'offre & go-to-market** | Entreprises qui lancent un nouveau produit ou service et ne savent pas comment le positionner ni le vendre | Étude de la voix du client, personas, positionnement, battlecard, pricing et plan de lancement à 90 jours. Exemple : [lancement d'une offre de facturation électronique pour TPE](https://github.com/niyadanielleO/smb-e-invoicing-go-to-market) |
 | **Pilotage & reporting** | Dirigeants qui suivent leurs chiffres dans des fichiers Excel éparpillés | Un tableau de bord clair (ventes, marketing, réseaux sociaux) mis à jour automatiquement, et un reporting mensuel prêt à lire |
 | **Automatisation IA** | Équipes qui perdent du temps sur des tâches répétitives | Un outil sur mesure : assistant de prospection, génération de contenus, tri de leads, réponses aux questions clients |
 | **Contenus explicatifs** | Entreprises dont l'offre est difficile à expliquer | Une vidéo motion ou un visuel interactif qui rend votre offre compréhensible en quelques secondes |
