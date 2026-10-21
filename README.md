@@ -1,32 +1,23 @@
-# Niya C. Danielle Ouattara – Data & IA pour PME
+# Niya C. Danielle Ouattara – Product Marketing · Data · IA
 
-**J'aide les PME à automatiser leur marketing et leur reporting avec l'IA, pour gagner des heures chaque semaine, sans compétences techniques.**
+**Je transforme la donnée en décisions marketing : comprendre un marché, positionner une offre, la lancer, puis automatiser ce qui peut l'être avec l'IA.**
 
-Et parce qu'une offre se vend mieux quand elle se comprend, j'aide aussi les PME à **mieux vendre et expliquer leurs offres** grâce à la data, à l'IA et à des contenus visuels, sans agence coûteuse.
+Product marketing B2B (data & IA, cloud souverain) · MBA EFAP · MSc Marketing & Data Analytics INSEEC
+Paris, puis Abidjan à partir de décembre 2026
 
-Paris & Abidjan · Missions en France, en Côte d'Ivoire et à distance
-
----
-
-## Ce que je propose
-
-| Offre | Pour qui | Ce que vous obtenez |
-|---|---|---|
-| **Lancement d'offre & go-to-market** | Entreprises qui lancent un nouveau produit ou service et ne savent pas comment le positionner ni le vendre | Étude de la voix du client, personas, positionnement, battlecard, pricing et plan de lancement à 90 jours. Exemple : [lancement d'une offre de facturation électronique pour TPE](https://github.com/niyadanielleO/smb-e-invoicing-go-to-market) |
-| **Pilotage & reporting** | Dirigeants qui suivent leurs chiffres dans des fichiers Excel éparpillés | Un tableau de bord clair (ventes, marketing, réseaux sociaux) mis à jour automatiquement, et un reporting mensuel prêt à lire |
-| **Automatisation IA** | Équipes qui perdent du temps sur des tâches répétitives | Un outil sur mesure : assistant de prospection, génération de contenus, tri de leads, réponses aux questions clients |
-| **Contenus explicatifs** | Entreprises dont l'offre est difficile à expliquer | Une vidéo motion ou un visuel interactif qui rend votre offre compréhensible en quelques secondes |
+**Recherche un CDI** en Product Marketing, Data Analyst ou AI Product Builder, en France ou en Côte d'Ivoire. Ouverte également aux missions freelance (voir plus bas).
 
 ---
 
 ## Projets
 
-Chaque projet part d'un problème d'entreprise concret et montre la solution, les outils et le résultat obtenu.
+Chaque projet part d'un problème d'entreprise concret et montre la démarche, les outils et le résultat.
 
 | Projet | Problème résolu | Outils | Statut |
 |---|---|---|---|
-| **[Analyse de performance e-commerce](https://github.com/niyadanielleO/olist-ecommerce-performance-dashboard)** | Comprendre la croissance, la géographie des ventes et l'impact des retards de livraison sur la satisfaction (96 000 commandes) | Python, pandas, Tableau | Publié |
+| **[Lancement go-to-market d'une offre SaaS pour TPE](https://github.com/niyadanielleO/smb-e-invoicing-go-to-market)** | Construire le lancement d'une offre de facturation électronique face à la réforme 2026-2027 : voix du client (4 671 dirigeants), personas, positionnement, battlecard, pricing et plan à 90 jours | Product marketing, Python | Publié |
 | **[Système d'agents IA pour la prospection B2B dans le luxe](https://github.com/niyadanielleO/luxury-b2b-prospecting-ai-agents)** | Automatiser la prospection d'une maison créative sans dégrader la qualité perçue : 7 agents n8n, faits vérifiés, scoring par code, 4 points de validation humaine | n8n, Pipedrive, Gemini, Gmail API | Publié |
+| **[Analyse de performance e-commerce](https://github.com/niyadanielleO/olist-ecommerce-performance-dashboard)** | Comprendre la croissance, la géographie des ventes et l'impact des retards de livraison sur la satisfaction (96 000 commandes) | Python, pandas, Tableau | Publié |
 | **[Analyse du churn d'abonnés](https://github.com/niyadanielleO/churn-analysis-subscription-services)** | Identifier les clients à risque, chiffrer le revenu mensuel menacé et prioriser un plan de rétention (7 043 abonnés) | SQL, Python | Publié |
 | **[Segmentation clients et scoring de campagnes](https://github.com/niyadanielleO/customer-segmentation-campaign-scoring)** | Cibler les clients les plus susceptibles de répondre à une campagne et simuler le ROI d'un envoi ciblé (2 240 clients) | Python, scikit-learn | Publié |
 
@@ -34,29 +25,36 @@ Chaque projet part d'un problème d'entreprise concret et montre la solution, le
 
 ## Parcours
 
+- **Product Marketing Manager** – Groupe La Poste, division Data & IA
+- **Chargée de projet Marketing & Communication** – opérateur cloud souverain qualifié SecNumCloud (alternance)
+- **Assistante chef de produit** – PME agroalimentaire (alternance)
 - **MBA Digital Marketing & Business** – EFAP · Mémoire sur le marketing produit augmenté par l'IA dans les PME B2B ivoiriennes
 - **MSc Marketing & Data Analytics** – INSEEC
-- **Marketing produit & data en entreprise** : Groupe La Poste (division Data & IA), opérateur cloud souverain, PME agroalimentaire
 
 ---
 
 ## Boîte à outils
 
+**Product marketing** : voix du client · personas · positionnement et messaging · battlecards · pricing · plan de lancement · sales enablement
 **Data** : Power BI · Tableau · Python (pandas, scikit-learn) · SQL · GA4 · Excel
-**IA & no/low-code** : Claude · Claude Code · Lovable · Manus AI
-**Marketing** : go-to-market · sales enablement · contenus B2B · reporting de performance
+**IA & automatisation** : n8n · API Gemini · Claude · Claude Code
+**CRM & outils commerciaux** : Pipedrive · LinkedIn Sales Navigator
 
 ---
 
-## Disponibilité
+## Pour les entreprises : missions freelance
 
-Ouverte à un poste en CDI en Product Marketing, Data Analyst ou AI Product Builder, en France ou en Côte d'Ivoire.
+En parallèle de ma recherche de CDI, j'accompagne ponctuellement des PME, en France et en Côte d'Ivoire :
+
+| Mission | Pour qui | Exemple |
+|---|---|---|
+| **Lancement d'offre & go-to-market** | Entreprises qui lancent un produit ou un service | [Offre de facturation électronique pour TPE](https://github.com/niyadanielleO/smb-e-invoicing-go-to-market) |
+| **Automatisation IA** | Équipes qui perdent du temps sur la prospection ou des tâches répétitives | [Agents de prospection B2B](https://github.com/niyadanielleO/luxury-b2b-prospecting-ai-agents) |
+| **Pilotage & reporting** | Dirigeants qui suivent leurs chiffres dans des fichiers Excel éparpillés | [Tableau de bord e-commerce](https://github.com/niyadanielleO/olist-ecommerce-performance-dashboard) |
 
 ---
 
-## Travaillons ensemble
-
-Vous avez un reporting qui vous prend trop de temps, ou une offre difficile à expliquer ?
+## Contact
 
 E-mail : niyadanielle@gmail.com
 LinkedIn : [linkedin.com/in/ndanielleouattara](https://www.linkedin.com/in/ndanielleouattara)
