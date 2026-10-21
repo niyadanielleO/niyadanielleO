@@ -4,7 +4,7 @@
 
 Product marketing B2B/B2C (data & IA, cloud souverain) · MBA EFAP · MSc Marketing & Data Analytics INSEEC
 
-**Recherche un CDI** en Product Marketing, Data Analyst ou AI Product Builder, en France ou à l'international. Ouverte également aux missions freelance (voir plus bas).
+**Recherche un CDI de Product Marketing Manager** (tech B2B, data & IA), en France ou à l'international.
 
 ---
 
@@ -24,11 +24,9 @@ Chaque projet part d'un problème d'entreprise concret et montre la démarche, l
 
 ## Parcours
 
-- **Product Marketing Manager** – Groupe La Poste, division Data & IA
-- **Chargée de projet Marketing & Communication** – opérateur cloud souverain qualifié SecNumCloud (alternance)
-- **Assistante chef de produit** – PME agroalimentaire (alternance)
-- **MBA Digital Marketing & Business** – EFAP · Mémoire sur le marketing produit augmenté par l'IA dans les PME B2B ivoiriennes
-- **MSc Marketing & Data Analytics** – INSEEC
+- **Chargée de projet Marketing & Communication** – Cloud Temple, opérateur cloud souverain SecNumCloud (alternance, 2025-2026)
+- **Product Marketing Manager** – Groupe La Poste, division Data & IA (2023-2024)
+- **Assistante chef de produit** – PME agroalimentaire (alternance, 2022-2023)
 
 ---
 
@@ -43,13 +41,14 @@ Chaque projet part d'un problème d'entreprise concret et montre la démarche, l
 
 ## Pour les entreprises : missions freelance
 
-En parallèle de ma recherche de CDI, j'accompagne ponctuellement des PME, en France et en Côte d'Ivoire :
+J'accompagne aussi ponctuellement des PME en France et en Côte d'Ivoire (go-to-market, automatisation IA, reporting) : me contacter.
 
 | Mission | Pour qui | Exemple |
 |---|---|---|
 | **Lancement d'offre & go-to-market** | Entreprises qui lancent un produit ou un service | [Offre de facturation électronique pour TPE](https://github.com/niyadanielleO/smb-e-invoicing-go-to-market) |
 | **Automatisation IA** | Équipes qui perdent du temps sur la prospection ou des tâches répétitives | [Agents de prospection B2B](https://github.com/niyadanielleO/luxury-b2b-prospecting-ai-agents) |
 | **Pilotage & reporting** | Dirigeants qui suivent leurs chiffres dans des fichiers Excel éparpillés | [Tableau de bord e-commerce](https://github.com/niyadanielleO/olist-ecommerce-performance-dashboard) |
+
 
 ---
 
