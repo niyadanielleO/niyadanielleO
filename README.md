@@ -1,5 +1,7 @@
 # Niya C. Danielle Ouattara – Product Marketing · Data · IA
 
+**In English:** Product Marketing Manager with a data and AI background (B2B tech, sovereign cloud). Looking for a full-time role in France or abroad. Projects below cover go-to-market, AI agents (n8n), dashboards and customer analytics.
+
 **Je transforme la donnée en décisions marketing : comprendre un marché, positionner une offre, la lancer, puis automatiser ce qui peut l'être avec l'IA.**
 
 Product marketing B2B/B2C (data & IA, cloud souverain) · MBA EFAP · MSc Marketing & Data Analytics INSEEC
