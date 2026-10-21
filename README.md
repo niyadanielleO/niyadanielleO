@@ -2,7 +2,7 @@
 
 **Je transforme la donnée en décisions marketing : comprendre un marché, positionner une offre, la lancer, puis automatiser ce qui peut l'être avec l'IA.**
 
-Product marketing B2B (data & IA, cloud souverain) · MBA EFAP · MSc Marketing & Data Analytics INSEEC
+Product marketing B2B/B2C (data & IA, cloud souverain) · MBA EFAP · MSc Marketing & Data Analytics INSEEC
 
 **Recherche un CDI** en Product Marketing, Data Analyst ou AI Product Builder, en France ou en Côte d'Ivoire. Ouverte également aux missions freelance (voir plus bas).
 
